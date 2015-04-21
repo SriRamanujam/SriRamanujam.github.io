@@ -1,0 +1,20 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Sri Ramanujam's Blog Thing
+tagline:             'A place for me to talk about stuff'
+description:         'This is a small bit of the internet in which I get to talk about things. I typically try to stick to re-implementing desktop niceties in Python and prattling on about software and configuration. In short, I am a massive nerd and this is where I get to wax poetic about it.'
+url:                 http://sriramanujam.github.io
+baseurl:             ''
+paginate:            7
+
+# About/contact
+author:
+  name:              Sri Ramanujam
+  twitter:           "https://twitter.com/Happy_Man"
+  email:             thisguy@sriramanujam.me
+  github:            "http://github.com/SriRamanujam"
